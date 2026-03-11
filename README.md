@@ -35,3 +35,40 @@ This project focuses on **Sales Data Analysis and Data Visualization using Power
 - Data table view for detailed analysis
 
 ## Project Structure
+electrohub-sales-data-analysis-powerbi-dashboard
+│
+├── electrohub-sales-dashboard.pbix
+├── electrohub-sales-dataset.xlsx
+│
+├── images
+│ ├── overview-dashboard.png
+│ ├── top-bottom-products-analysis.png
+│ ├── sales-profit-quantity-comparison.png
+│ ├── edit-interaction-dashboard.png
+│ └── sales-data-table-view.png
+
+## Dashboard Preview
+
+### Overview Dashboard
+![Overview](images/overview-dashboard.png)
+
+### Top and Bottom Product Analysis
+![Top Bottom Products](images/top-bottom-products-analysis.png)
+
+### Sales Profit Quantity Comparison
+![Comparison](images/sales-profit-quantity-comparison.png)
+
+### Dashboard Interaction
+![Interaction](images/edit-interaction-dashboard.png)
+
+### Data Table View
+![Table](images/sales-data-table-view.png)
+
+## Key Insights
+- Identified **top 5 and bottom 5 performing products**
+- Analyzed **sales trends across different time periods**
+- Compared **sales, profit, and quantity metrics**
+- Provided insights into **product performance and promotion effectiveness**
+
+## Conclusion
+This project demonstrates how **Power BI dashboards and data visualization techniques** can help businesses analyze sales performance and generate **actionable business insights** through **data analytics and business intelligence tools**.
